@@ -405,6 +405,7 @@ npm run test:gas      # Gas优化测试
 ### 🚀 部署就绪
 项目已完成所有核心功能开发，可以立即部署到生产环境。所有功能都经过测试，数据来自真实的智能合约，确保游戏的完整性和可玩性。
 
+> 🚀 **[立即体验游戏](https://farm-monad.vercel.app/)** - 在Monad测试网上开始你的农场之旅！
 ---
 
 **🚀 Built with ❤️ on Monad Blockchain**
