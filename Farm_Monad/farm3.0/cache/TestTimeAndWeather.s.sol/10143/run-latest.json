@@ -1,0 +1,10 @@
+{
+  "transactions": [
+    {
+      "rpc": "https://testnet-rpc.monad.xyz"
+    },
+    {
+      "rpc": "https://testnet-rpc.monad.xyz"
+    }
+  ]
+}

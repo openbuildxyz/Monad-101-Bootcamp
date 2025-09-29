@@ -1,0 +1,4 @@
+
+> @pythnetwork/entropy-sdk-solidity@2.0.0 build /home/runner/work/pyth-crosschain/pyth-crosschain/target_chains/ethereum/entropy_sdk/solidity
+> generate-abis IEntropy IEntropyV2 IEntropyConsumer EntropyErrors EntropyEvents EntropyEventsV2 EntropyStructs EntropyStructsV2 EntropyStatusConstants PRNG
+
