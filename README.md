@@ -126,3 +126,15 @@
 #### 安全
 
 1. [区块链黑暗森林自救手册](https://github.com/slowmist/Blockchain-dark-forest-selfguard-handbook/blob/main/README_CN.md)
+
+
+## Monitoring & Security (Proposal)
+
+This Bootcamp could benefit from a small infra track:
+- Prometheus + Grafana + exporters + alert rules
+- Fail2Ban snapshot for SSH brute-force protection
+- Public read-only dashboard (DevNet node):  
+  [Grafana — Monad Node Metrics](https://grafana.skandicescape.online/d/rYdddlPWk/asplana92-7c-monad-node-metrics?orgId=1&from=now-6h&to=now&timezone=browser&var-ds_prometheus=ef2g8hl01bkzkd&var-job=node&var-nodename=ubuntu-8gb-hel1-1&var-node=127.0.0.1:9100&refresh=1m)
+
+**Related issue:** openbuildxyz/Monad-101-Bootcamp#292  
+**Contributor:** [@Asplana92](https://github.com/Asplana92)
