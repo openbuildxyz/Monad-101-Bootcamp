@@ -1,0 +1,6 @@
+- 昵称：Vinci
+- GitHub 用户名： Vinci-217
+- EVM 钱包地址：0xfa0cda1e2234574742fca3e44825d497ca9c35ab
+- 技术栈：Golang、Solidity、React
+- Twitter：@Vinci-17
+- 自我介绍： Web3爱好者
